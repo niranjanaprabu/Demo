@@ -1,4 +1,9 @@
 Helloworld
 hi i am niranjana
 
+<<<<<<< HEAD
 changes in main
+=======
+
+changes in branch1
+>>>>>>> branch1
