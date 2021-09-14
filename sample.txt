@@ -6,6 +6,11 @@ changes in main
 =======
 
 changes in branch1
+<<<<<<< HEAD
 >>>>>>> branch1
 
 abcd
+=======
+
+xyx
+>>>>>>> branch1
